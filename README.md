@@ -1,0 +1,1 @@
+This repository contains a Perl script with a common regex error related to unescaped quotes. The script attempts to count the occurrences of a specific string but fails due to improper handling of escaped quotes.  The solution demonstrates how to correctly handle escaped quotes in the regular expression.
